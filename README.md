@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online On34 | Python | Semana 07 | 2024 | <a href="https://www.linkedin.com/in/melissa-gama-b70516b6/" target="_blank" rel="noopener noreferrer">Professora Melissa Gama</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
