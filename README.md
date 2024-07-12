@@ -4,7 +4,7 @@
 
 # Lidando com banco de dados
 
-Turma Online On34 | Python | Semana 07 | 2024 | [Bianca Inácio](https://www.linkedin.com/in/biancainacio)
+Turma Online On34 | Python | Semana 07 | 2024 | [Bianca Santos](https://www.linkedin.com/in/biancainacio)
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -13,7 +13,7 @@ Antes de começar, vamos organizar nosso setup.
 * Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
 
 ## Conteúdo
-[Notebook]()
+[Notebook com a Aula de sábado](https://github.com/reprograma/on34-python-s07-banco-de-dados-I/blob/main/Explica%C3%A7%C3%A3o%20de%20uso.ipynb)
 
 <p align="center">
 Desenvolvido com :purple_heart:  
