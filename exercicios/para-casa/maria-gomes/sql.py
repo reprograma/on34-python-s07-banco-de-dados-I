@@ -71,6 +71,8 @@ SET Nome = 'Sherock - 4' WHERE Id = 4
 """)
 
 res = cur.execute("SELECT * FROM Progresso_Livro_Pessoa WHERE Pessoa_Id = 1 AND Livro_Id = 1")
+res = cur.execute("SELECT * FROM Progresso_Livro_Pessoa WHERE Pessoa_Id = 1 AND Pessoa = 1")
+res = cur.execute("SELECT * FROM Progresso_Livro_Pessoa WHERE Pessoa_Id = 1 AND Percentual_Lido < 100")
 res.fetchall()
 
 conn.close()
